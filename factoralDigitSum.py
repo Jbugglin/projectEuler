@@ -7,7 +7,7 @@ import math
 # Answer: 648
 factoral_value = 100
 factorial_answer = math.factorial(factoral_value)
-#print("The factorial of" ,factoral_value, "is", factorial_answer)
+print("The factorial of" ,factoral_value, "is", factorial_answer)
 
 def getDigitSum(n):
     sum = 0 
